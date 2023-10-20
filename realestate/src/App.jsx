@@ -6,7 +6,7 @@ import Signin from './pages/Signin'
 import SignUp from './pages/SignUp'
 import About from './pages/about'
 import Profile from './pages/Profile'
-import Header from './Components/Headers'
+import Header from './Components/Header'
 
 export default function App() {
   return <BrowserRouter>
